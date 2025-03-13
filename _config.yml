@@ -1,0 +1,10 @@
+title: "Zygimantas's blog space"
+author: "Zygimantas S."
+description: "A simple, minimalist blog about my thoughts on tech, life and everything inbetween."
+baseurl: ""  # Keep this empty unless using a subfolder
+url: "https://zygsnarskis.github.io"
+
+# Theme settings
+theme: jekyll-theme-minimal  # Change if using a different theme
+plugins:
+  - jekyll-feed
