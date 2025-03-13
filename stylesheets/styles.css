@@ -268,3 +268,23 @@ footer {
     color:#444;
   }
 }
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+
+  a {
+    color: #bb86fc;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+  }
+
+  .site-title, .post-title {
+    color: #ffffff;
+  }
+}
