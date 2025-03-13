@@ -3,6 +3,7 @@ author: "Zygimantas S."
 description: "A simple, minimalist blog about my thoughts on tech, life and everything inbetween."
 baseurl: ""  # Keep this empty unless using a subfolder
 url: "https://zygsnarskis.github.io"
+permalink: /:categories/:title/
 
 # Navigation Links
 navigation:
