@@ -1,5 +1,9 @@
-Here you can say lots of fun things about your site.
+Welcome, dear reader.
 
-Maybe say a some things about yourself.
+This blog site is home to some of my thoughts on tech, music, life, and everything that's inbetween.
+I hope the information I provide here will prove useful and entertaining to anyone who stumbles upon this corner of the web.
+Feel free to reach out to me via e-mail and have a look at my videos on YouTube, where you'll find my music and more thoughts!
 
-Or maybe what you plan to blog about.
+Thanks for visiting!
+
+Zygimantas
