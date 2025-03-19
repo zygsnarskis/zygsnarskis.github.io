@@ -27,3 +27,11 @@ header, footer {
 hr {
     border-color: var(--border-color);
 }
+
+nav a, nav a:visited {
+    color: var(--text-color) !important;
+}
+
+nav a:hover {
+    color: var(--link-color) !important;
+}
