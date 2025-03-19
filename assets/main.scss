@@ -16,14 +16,8 @@ body {
     color: var(--text-color);
 }
 
-h1 {
+.post-header{
     background-color: var(--background-color) !important;
-    margin-bottom: 0px !important;
-}
-
-.post-meta {
-    background-color: var(--background-color) !important;
-    margin-top: 15px !important;
 }
 
 a {
