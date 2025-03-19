@@ -4,11 +4,11 @@
 @import "minima";
 
 :root {
-    --background-color: #1B1725;
-    --text-color: #D0BCD5;
-    --link-color: #226CE0;
-    --header-background: #312C3A;
-    --border-color: #A499B3;
+    --background-color: #272B27;
+    --text-color: #E0E1E0;
+    --link-color: #FFFFFF;
+    --header-background: #191919;
+    --border-color: #F15025;
 }
 
 body {
@@ -21,7 +21,7 @@ a {
 }
 
 a:hover {
-    color: #fff !important;
+    color: #F15025 !important;
 }
 
 
@@ -31,10 +31,6 @@ header, footer {
 
 hr {
     border-color: var(--border-color);
-}
-
-.site-title, .site-title:visited {
-  color: #fff;
 }
 
 nav a, nav a:visited {
