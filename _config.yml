@@ -19,6 +19,10 @@ youtube_username: "@amberpointsilva"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
+minima:
+  skin: dark
+  custom_css:
+    - custom.css
 
 rss: rss
 
