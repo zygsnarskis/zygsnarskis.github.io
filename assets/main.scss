@@ -16,6 +16,10 @@ body {
     color: var(--text-color);
 }
 
+.post-meta {
+    background-color: var(--background-color) !important;
+}
+
 a {
     color: var(--link-color) !important;
     text-decoration: none !important;
