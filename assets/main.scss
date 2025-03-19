@@ -28,6 +28,10 @@ hr {
     border-color: var(--border-color);
 }
 
+.site-title, .site-title:visited {
+  color: #fff;
+}
+
 nav a, nav a:visited {
     color: var(--text-color) !important;
 }
