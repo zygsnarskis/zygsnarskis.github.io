@@ -20,6 +20,11 @@ a {
     color: var(--link-color);
 }
 
+a:hover {
+    color: #fff !important;
+}
+
+
 header, footer {
     background-color: var(--header-background);
 }
