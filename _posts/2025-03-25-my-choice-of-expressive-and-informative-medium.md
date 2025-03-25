@@ -1,6 +1,6 @@
 ## My choice of expressive and informative medium
 
-![Random list on a blank page](https://github.com/zygsnarskis/zygsnarskis.github.io/blob/main/images/post_one.jpg "list")
+![Random list on a blank page](./images/post_one.jpg "list")
 
 I’ve considered the act of writing a fairly great chore for as long as I can remember. And even today, as a Journalism and Communications major, I sometimes find myself struggling to sit down and write something for the sake of expressing myself, as well as sharing my knowledge with others. This difficulty, I recently realized, stems from the lack of a medium where I’d be happy to share my thoughts on things that I’m passionate about. With that realization in mind, I decided to do the obvious, and surprisingly accessible thing – to start my own blog. 
 
