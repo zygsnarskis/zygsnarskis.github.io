@@ -1,5 +1,7 @@
 ## My choice of expressive and informative medium
 
+![Random list on a blank page](https://github.com/zygsnarskis/zygsnarskis.github.io/blob/main/images/post_one.jpg "list")
+
 I’ve considered the act of writing a fairly great chore for as long as I can remember. And even today, as a Journalism and Communications major, I sometimes find myself struggling to sit down and write something for the sake of expressing myself, as well as sharing my knowledge with others. This difficulty, I recently realized, stems from the lack of a medium where I’d be happy to share my thoughts on things that I’m passionate about. With that realization in mind, I decided to do the obvious, and surprisingly accessible thing – to start my own blog. 
 
 So, now what? What am I going to write about? Well, thankfully, amidst feverish deliberation of what method I’m going to use to build this website (there’s certainly an overwhelming number of ways to make a blog nowadays), I managed to think of a set of topics I’d like to explore here. More specifically, a combination of three core areas – technology, music, and life itself. The reason I chose to bring these broad areas together is simple, really – I am deeply fascinated by technology (especially music technology), music is profoundly important to me, and I cannot imagine my life without consistently learning about and exploring these things. Therefore, the interplay of these key areas will provide the central theme for the blog posts to come.
